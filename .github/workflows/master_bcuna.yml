@@ -63,4 +63,4 @@ jobs:
           app-name: 'BCUna'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E647F50FBA6425786C76B6EEE38C210 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C93960EC5FB47CCAF3C2200C1F377FE }}
